@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on discord bots<br>🤝 I’m looking for help with next.js and express.js<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about Java and JDA
+🔭 I’m currently working on iOS Apps<br>🤝 I’m looking for help with SwiftUI<br>🌱 I’m currently learning SwiftUI<br>💬 Ask me about Java and Typescript
 
 
 ## 🌐 Socials:
