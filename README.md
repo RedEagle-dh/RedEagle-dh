@@ -1,37 +1,14 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hey, I'm Dave!
-I study CS and work as a web developer. I'm interested in Cloud-Technologies and performance languages like Rust and C++. Also I like to build PC's and play around with linux. Currently I work on **ModLog**, an analytics platform for Twitch moderators.
+Co-Founder of [ModLog](https://modlog.tv) and creator of [EventMate](https://eventmate.cloud). 
 
 ## 🚀 Projects & Interests
-- 📊 **ModLog** – A Dashboard to analyze activities of moderators.
-- ☁️ **Cloud & Kubernetes** – Self-Hosting of Overleaf with OpenStack and Terraform.
+- 📊 **[ModLog](https://modlog.tv)** – A Dashboard to analyze activities of moderators on twitch.
+- ☁️ **[EventMate](https://eventmate.cloud)** – The ultimate Discord bot for GTA RP event management. 
 
-## 📝 Languages
-<p align="center">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=typescript,java,c,cpp,terraform"
-    />
-</p>
-
-## 🛠️ Tools
-<p align="center">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,kafka,prometheus,grafana,prisma,graphql"
-    />
-</p>
-
-## 💾 Databases
-<p align="center">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,mongodb"
-    />
-</p>
-
-## 📚 Frameworks & Libraries
-<p align="center">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=discordjs,nextjs,nestjs,react,tailwindcss"
-    />
-</p>
+### Open Source Projects
+- 🍞 **[briochestack](https://github.com/RedEagle-dh/briochestack)** - A modern fullstack web template with Bun, TanStack Start, ElysiaJS, Better Auth, and Drizzle ORM. 
+- 🔎 **[bun-logger](https://github.com/RedEagle-dh/bun-logger)** - A high-performance, Bun-native structured logger with OpenTelemetry support. 
+- 📡 **[uptimebeacon](https://github.com/RedEagle-dh/uptimebeacon)** - A self-hosted uptime monitoring application that tracks the availability and performance of your websites, APIs, and services.
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -42,6 +19,10 @@ I study CS and work as a web developer. I'm interested in Cloud-Technologies and
 ## 🌍 Socials
 📌 **Discord:** [redeagle.](https://discordapp.com/users/324890484944404480)
 
+📌 **X:** [RedEagle_Dave](https://x.com/redeagle_dave)
+
+📌 **LinkedIn:** [David Hermann](https://www.linkedin.com/in/davidhermann03/)
+
 ---
 
-*Let's build cool things together!*
+I use Arch btw
