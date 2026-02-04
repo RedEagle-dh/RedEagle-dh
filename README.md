@@ -11,13 +11,9 @@ Co-Founder of [ModLog](https://modlog.tv) and creator of [EventMate](https://eve
 - 🔎 **[bun-logger](https://github.com/RedEagle-dh/bun-logger)** - A high-performance, Bun-native structured logger with OpenTelemetry support. 
 - 📡 **[uptimebeacon](https://github.com/RedEagle-dh/uptimebeacon)** - A self-hosted uptime monitoring application that tracks the availability and performance of your websites, APIs, and services.
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redeagle-dh&theme=dark&hide_border=true"
-   />
-</div>
-
 ## 🌍 Socials
+📌 **Blog/Portfolio:** [https://redeagle-dave.com](https://redeagle-dave.com)
+
 📌 **Discord:** [redeagle.](https://discordapp.com/users/324890484944404480)
 
 📌 **X:** [RedEagle_Dave](https://x.com/redeagle_dave)
