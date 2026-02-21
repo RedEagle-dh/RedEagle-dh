@@ -6,6 +6,7 @@ Co-Founder of [ModLog](https://modlog.tv) and creator of [EventMate](https://eve
 - ☁️ **[EventMate](https://eventmate.cloud)** – The ultimate Discord bot for GTA RP event management. 
 
 ### 🤝 Open Source
+- 🤖 **[Skills Sync](https://gist.github.com/RedEagle-dh/adc52131e27b272d97aa18c9030d808d) - A script for automatic syncing skills from .agents between devices.
 - 🖥️ **[envibe](https://github.com/RedEagle-dh/envibe)** - A desktop application for orchestrating parallel development projects. 
 - 🍞 **[briochestack](https://github.com/RedEagle-dh/briochestack)** - A modern fullstack web template with Bun, TanStack Start, ElysiaJS, Better Auth, and Drizzle ORM. 
 - 🔎 **[bun-logger](https://github.com/RedEagle-dh/bun-logger)** - A high-performance, Bun-native structured logger with OpenTelemetry support. 
