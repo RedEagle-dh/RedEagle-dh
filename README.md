@@ -3,7 +3,8 @@ Co-Founder of [ModLog](https://modlog.tv) and creator of [EventMate](https://eve
 
 ## 🚀 Projects
 - 📊 **[ModLog](https://modlog.tv)** – A Dashboard to analyze activities of moderators on twitch.
-- ☁️ **[EventMate](https://eventmate.cloud)** – The ultimate Discord bot for GTA RP event management. 
+- ☁️ **[EventMate](https://eventmate.cloud)** – The ultimate Discord bot for GTA RP event management.
+- 🤖 **[Namegen](https://namegen.dev)** – A name generator for projects with automatic domain checker. 
 
 ### 🤝 Open Source
 - 🤖 **[Skills Sync](https://gist.github.com/RedEagle-dh/adc52131e27b272d97aa18c9030d808d)** - A script for automatic syncing skills from .agents between devices.
